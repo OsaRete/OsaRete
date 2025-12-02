@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="BANNER_LINK_AQUI" alt="Ernesto Cedeño Banner" />
+  <img src="https://github.com/OsaRete/OsaRete/blob/main/WhatsApp%20Image%202025-12-02%20at%2020.25.33.jpeg?raw=true" alt="Ernesto Cedeño Banner" />
 </p>
 
 <h1 align="center">👋 Hola, soy Ernesto Cedeño</h1>
